@@ -1,4 +1,4 @@
-Rajput Sumit
+**  Rajput Sumit  **
 
 Welcome ,  I am a recent graduate and trained Aircraft Maintenance Engineer (AME) & Aeronautical Engineer, with hands-on academic and simulator-based experience on commercial and general aviation aircraft. My work focuses on aircraft systems, maintenance practices, flight simulation, and technical documentation, with a strong emphasis on safety, precision, and regulatory standards.
 
@@ -65,17 +65,17 @@ Airbus A320 Aircraft Systems (academic & project-based)
   
    ->✈️ Airbus A320 – Aircraft Systems Project
 
-Studied and documented major A320 systems including:
+*  Studied and documented major A320 systems including:
 
-Flight control system
+*  Flight control system
 
-Landing gear & braking system
+*  Landing gear & braking system
 
-Hydraulic and pneumatic systems
+*  Hydraulic and pneumatic systems
 
-Focused on system logic, redundancy, and safety philosophy
+*  Focused on system logic, redundancy, and safety philosophy
 
-Created structured technical notes and system flow explanations
+*  Created structured technical notes and system flow explanations
 
 
 🧭 Airbus A320 Simulator-Based Study
@@ -104,11 +104,11 @@ Created structured technical notes and system flow explanations
 
 🛩️ Cessna 150 – General Aviation Fundamentals
 
-Familiarity with basic piston aircraft systems
+  -> Familiarity with basic piston aircraft systems
 
-Studied airframe, engine, and flight controls
+  -> Studied airframe, engine, and flight controls
 
-Gained insight into foundational aviation principles
+  ->  Gained insight into foundational aviation principles
 
 
 🎓 Education
@@ -116,18 +116,18 @@ Gained insight into foundational aviation principles
 Aeronautical Engineering & Aircraft Maintenance Engineering (AME)
 [ NDCIAME ->  AME COURSE]  
 [ PARUL UNIVERSITY  ->  B.TECH AERONAUTICAL ]  
-                                Status: Passed Out (Graduate)
+                                               Status: Passed Out (Graduate)
 
 
 📜 Training & Certifications
 
-   Aircraft Maintenance Engineering (AME) – Academic Qualification
+ ->     Aircraft Maintenance Engineering (AME) – Academic Qualification
 
-   Airbus A320 Systems & Simulator Training (Academic)
+ ->     Airbus A320 Systems & Simulator Training (Academic)
 
-   Learjet 23M – Aircraft Familiarization & Training
+ ->     Learjet 23M – Aircraft Familiarization & Training
 
-   Cessna 150 – Aircraft Systems Training
+ ->     Cessna 150 – Aircraft Systems Training
 
 
 ❤️ Interests & Professional Focus
@@ -142,15 +142,15 @@ Aeronautical Engineering & Aircraft Maintenance Engineering (AME)
 
 📬 Contact & Professional Links
 
-  📧 Email: [Your Email]
+  📧 Email: [rajputsumityt1@gmail.com]     n ote- (  * duration of reply  { 24-48 hours }  ) 
 
-  🔗 LinkedIn: [Your LinkedIn Profile]
+  🔗 LinkedIn: [ - ]
 
-  💻 GitHub: [Your GitHub Profile]
+  💻 GitHub: [ - ]
 
 
 ✨ Closing Note
 
 This portfolio reflects my academic training, project work, and early professional journey in aviation engineering. I am motivated to grow through real-world exposure, continued learning, and meaningful contributions to the aviation industry.
 
-Thank you for taking the time to review my profile.
+  Thank you for taking the time to review my profile.
